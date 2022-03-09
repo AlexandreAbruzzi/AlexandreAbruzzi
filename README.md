@@ -1,7 +1,8 @@
 # Olá, eu sou o Alexandre Abruzzi !
 
-- 🔭 Estou trabalhando com o Gerenciamento de plataformas Digitais para vendas de treinamentos na área de Segurança e desenvolvendo projetos individuais.
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas.
+- 🔭 Gerente de Tecnologia 
+- 🔭 trabalhando com o Gerenciamento de plataformas Digitais para vendas de treinamentos na área de Segurança e desenvolvendo projetos individuais.
+- 🌱 Análise e Desenvolvimento de Sistemas.
 - ⚡ Fun fact: Jogo World Of Warcraft (WOW) -Azralon
 
 <div align="center">
