@@ -2,7 +2,7 @@
 
 - 🔭 Gerente de Tecnologia 
 - 🔭 trabalhando com o Gerenciamento de plataformas Digitais para vendas de treinamentos na área de Segurança e desenvolvendo projetos individuais.
-- 🌱 Análise e Desenvolvimento de Sistemas.
+- 🌱 Desenvolvimento FullStack.
 - ⚡ Fun fact: Jogo World Of Warcraft (WOW) -Azralon
 
 <div align="center">
