@@ -1,7 +1,7 @@
 # Olá, eu sou o Alexandre Abruzzi !
 
 - 🔭 Gerente de Tecnologia 
-- 🔭 trabalhando com o Gerenciamento de plataformas Digitais para vendas de treinamentos na área de Segurança e desenvolvendo projetos individuais.
+- 🔭 trabalhando com Wordpress e  Gerenciamento de plataformas Digitais para vendas de treinamentos na área de Segurança e desenvolvendo projetos individuais.
 - 🌱 Desenvolvimento FullStack.
 - ⚡ Fun fact: Jogo World Of Warcraft (WOW) -Azralon
 
