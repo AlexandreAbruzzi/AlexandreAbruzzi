@@ -1,7 +1,6 @@
 # Olá, eu sou o Alexandre Abruzzi !
 
 - 🔭 Analista de Tecnologia 
-- 🔭 trabalhando com Wordpress e  Gerenciamento de plataformas Digitais para vendas de treinamentos na área de Segurança e desenvolvendo projetos individuais.
 - 🌱 Análise e Desenvolvimento de Sistemas.
 - ⚡ Fun fact: Jogo World Of Warcraft (WOW) -Azralon
 
