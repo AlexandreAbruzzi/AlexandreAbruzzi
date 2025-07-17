@@ -1,7 +1,7 @@
 # Olá, eu sou o Alexandre Abruzzi !
 
 - 🔭 Analista de Tecnologia 
-- 🌱 Análise e Desenvolvimento de Sistemas.
+- 🌱 CyberSegurança.
 - ⚡ Fun fact: Jogo World Of Warcraft (WOW) -Azralon
 
 <div align="center">
